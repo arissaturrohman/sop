@@ -71,6 +71,6 @@ Akses aplikasi melalui `http://127.0.0.1:8000`.
 ---
 
 ## **Akses Login**
-Username : admin@gmail.com
-Password : 123
+- Username : admin@gmail.com
+- Password : 123
 
